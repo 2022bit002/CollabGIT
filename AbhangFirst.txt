@@ -5,6 +5,7 @@ j1 zAL KA????
 
 are reply dya bcccccccc
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ......................
 =======
@@ -13,3 +14,6 @@ are reply dya bcccccccc
 Chutiya abhang
 >>>>>>> 9bd58c4 (Update abhang)
 >>>>>>> 564f9897f720a65109f524957c02fcc80d7dcd58
+=======
+ho re lavdya pedda kha....
+>>>>>>> 8da3ff9 (this is my reply)
