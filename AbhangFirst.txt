@@ -1,5 +1,10 @@
 Hello guy's
+<<<<<<< HEAD
 Abhang is fast learnner
 j1 zAL KA????
 
 are reply dya bcccccccc
+=======
+
+Chutiya abhang
+>>>>>>> 9bd58c4 (Update abhang)
